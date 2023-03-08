@@ -1,0 +1,16 @@
+{
+  "name": "Cantoverse",
+  "description": "Cantoverse NFT DAO",
+  "image": "https://bafybeicasntv56sexalprbpgiiemuzczmqb2oxrudlp7m3si4lx2zmud2e.ipfs.nftstorage.link/welcome-to-cantoverse_516.jpg",
+  "attributes": [
+    {
+      "trait_type": "Citizen Status",
+      "value": "Early Mover"
+    },
+    {
+      "trait_type": "CantoVerseDAO",
+      "value": "Member"
+    }
+  ],
+  "animation_url": "https://gateway.lighthouse.storage/ipfs/QmYKpgzvaAc9qjsk2csjyfc7G2euErBn1VagXonKvvpFjH/"
+}
